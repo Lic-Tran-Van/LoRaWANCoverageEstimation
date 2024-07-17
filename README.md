@@ -1,4 +1,4 @@
-# StageLoWaRAN
+# LoRaWAN Coverage Estimation
 
 To run, go on main and choose if you want to print prediction results or map coverage.
 
